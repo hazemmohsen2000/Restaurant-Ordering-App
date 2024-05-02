@@ -11,14 +11,6 @@ Features:
 
 
 
-<div style="text-align:center;">
-    ![Screen Shot1](Capture1.PNG)
-</div>
-
-<div style="text-align:center;">
-    ![Screen Shot2](Capture2.PNG)
-</div>
-
-<div style="text-align:center;">
-    ![Screen Shot3](Capture3.PNG)
-</div>
+![Screen Shot1](Capture1.PNG)
+![Screen Shot2](Capture2.PNG)
+![Screen Shot3](Capture3.PNG)
