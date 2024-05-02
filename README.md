@@ -11,6 +11,6 @@ Features:
 
 
 
-![Screen Shot1](Capture1.PNG)
-![Screen Shot2](Capture2.PNG)
-![Screen Shot3](Capture3.PNG)
+![Screen Shot1](/images/Capture1.PNG)
+![Screen Shot2](/images/Capture2.PNG)
+![Screen Shot3](/images/Capture3.PNG)
